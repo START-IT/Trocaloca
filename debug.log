@@ -1,0 +1,3 @@
+Vmac_ff50d40_1.8.1.8-RC1(9f182b2_1.8.1.7):111209_203048: [warn] CLILogUploadManager.cpp:acquireClList(514): Error occurred when getting CL list at URL 'http://log.client.akadns.net/cl/735c9e2507acf8f80f7176bd7b632a41'
+Vmac_ff50d40_1.8.1.8-RC1(9f182b2_1.8.1.7):111209_203049: [warn] CLILogUploadManager.cpp:acquireClList(514): Error occurred when getting CL list at URL 'http://log.client.akadns.net/cl/735c9e2507acf8f80f7176bd7b632a41'
+Vmac_ff50d40_1.8.1.8-RC1(9f182b2_1.8.1.7):111209_203051: [info] RSProxyType.cpp:log(30)-1: Proxy type DIRECT
